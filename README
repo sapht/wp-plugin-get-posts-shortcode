@@ -1,0 +1,2 @@
+uses a shortcode to do a post query
+slow, use a caching engine
